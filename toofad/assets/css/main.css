@@ -698,7 +698,11 @@ header h2.tagline {
   font-style: italic;
 }
 .project header > a { margin-bottom: 20px; }
-
+.variedLetterSpacing.project a h1 {
+  font-weight: 700;
+  font-size: 1.8em;
+  margin-bottom: 0px;
+}
 .variedLetterSpacing.project a h2 {
   font-size: 16px;
   font-style: italic;

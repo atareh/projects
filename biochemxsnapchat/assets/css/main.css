@@ -47,7 +47,7 @@ a {
   transition: color .15s ease-in-out;
   border-bottom: 1px solid #ddd;
 }
-a:hover { color: #5eca89; }
+a:hover { color: #f9c959; }
 h1,
 h2,
 h3,
@@ -56,7 +56,7 @@ h5,
 h6 {
   font-size: 1em;
   font-weight: normal;
-  color: #5eca89;
+  color: #f9c959;
   margin: 0 0 .5em;
   text-rendering: optimizeLegibility;
 }
@@ -66,7 +66,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-  color: #5eca89;
+  color: #f9c959;
   text-decoration: none;
   border-bottom: 1px solid #ddd;
   padding-bottom: 2px;

@@ -363,7 +363,7 @@ header > a > * {
   -webkit-transition: color .15s ease-in-out;
   transition: color .15s ease-in-out;
 }
-header a:hover > * { color: #5eca89 !important; }
+header a:hover > * { color: #4CB6AC !important; }
 header h1 {
   font-weight: normal;
   margin: 0;

@@ -1911,14 +1911,6 @@ body.variedLetterSpacing {
 }
 /* imported: '/styles/base/clears.scss */
 
-.about:after,
-.projectSingle:after,
-.contact:after {
-  display: block;
-  content: ".";
-  clear: both;
-  font-size: 0;
-  line-height: 0;
-  height: 0;
-  overflow: hidden;
-}
+
+
+

@@ -1418,7 +1418,7 @@ carbon-player.video .control:hover { background: rgba(94, 202, 137, 1); }
 }
 body.variedLetterSpacing {
   font-weight: 400;
-  font-size: 10px;
+  font-size: 13px;
   font-family: 'PT Serif', serif;
 }
 .variedLetterSpacing h1,
@@ -1429,7 +1429,7 @@ body.variedLetterSpacing {
   font-weight: 400;
 }
 .variedLetterSpacing h1 {
-  font-size: 1em;
+  font-size: 3.6em;
   font-weight: 900;
 }
 .variedLetterSpacing .miniTitle,
